@@ -1,3 +1,4 @@
+##Automated Business Outreach Tool
 This project focuses on building an automated business outreach tool to assist software services companies in streamlining their client outreach. 
 The system uses advanced techniques in Natural Language Processing (NLP), Deep Learning (DL), and Machine Learning (ML) to generate personalized outreach emails based on job descriptions extracted from client career portals.
 
